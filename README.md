@@ -1,12 +1,12 @@
 # Basic-Prolog-Programs
-# @ anuja.nagare@uga.edu
+ @ anuja.nagare@uga.edu
 
-# Prolog Environment: SWI-Prolog version 7.4.
+ Prolog Environment: SWI-Prolog version 7.4.
 
-# Steps to run programs:
-# 1. Compile program.
-# 2. Read clauses from file load prolog source file with consult option in file menu.
-# 3. Post a query to find out the solution.
+ Steps to run programs:
+ 1. Compile program.
+ 2. Read clauses from file load prolog source file with consult option in file menu.
+ 3. Post a query to find out the solution.
 
 
 This repository consists of following prolog programs:
